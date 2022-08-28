@@ -1,0 +1,663 @@
+{
+  "meta": {
+    "version": "1.0",
+    "lastUpdate": "2022-08-28T06:00:00Z"
+  },
+  "monsters": [
+    {
+      "name": "＜精霊姉妹＞ノマミー",
+      "element": "[無]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "＜精霊姉妹＞ノマミー　ﾊﾛｳｨﾝ.ver",
+      "element": "[無]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "＜精霊姉妹＞宝石の運び屋　ビュミー",
+      "element": "[無]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "まじょおばけ",
+      "element": "[無]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "マッドドローン",
+      "element": "[無]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "ぴえん",
+      "element": "[無]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "〈精霊姉妹〉オンミ―",
+      "element": "[陰]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "ブラックホール",
+      "element": "[邪]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "アサシンボーイ",
+      "element": "[闇]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "回収屋",
+      "element": "[陰]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "〈精霊姉妹〉ファイミー",
+      "element": "[火]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "葬儀屋",
+      "element": "[火]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "〈精霊姉妹〉ミョウミ―",
+      "element": "[陽]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "ホワイトホール",
+      "element": "[聖]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "案内屋",
+      "element": "[陽]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "ゴールドウルフ",
+      "element": "[聖]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "プルリン",
+      "element": "[陽]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "〈精霊姉妹〉ソラミ―",
+      "element": "[空]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "コニー",
+      "element": "[天]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "月の狩人",
+      "element": "[星]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "羊のキャンディー",
+      "element": "[天]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "お菓子の国のお姫様",
+      "element": "[星]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "天使 ソフィア",
+      "element": "[天]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "〈精霊姉妹〉リフミー",
+      "element": "[木]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "荒野のサボちゃん",
+      "element": "[陸]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "しげりゅう・雪『クリスマス限定』",
+      "element": "[木]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "解体屋",
+      "element": "[木]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "チョコ作り『バレンタイン限定』",
+      "element": "[陸]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "女海賊",
+      "element": "[陸]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "月の戦女",
+      "element": "[地]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "〈精霊姉妹〉ハスミ―",
+      "element": "[水]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "フリー",
+      "element": "[氷]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "バローズ",
+      "element": "[海]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "うぬ",
+      "element": "[水]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "掃除屋",
+      "element": "[水]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "空色のニーナ",
+      "element": "[氷]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "キケロ",
+      "element": "[全]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "ただの石",
+      "element": "[全]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "武陽_ノゼリア",
+      "element": "[熱]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "シュクルスピル",
+      "element": "[無]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "泡沫竜 クエーサー",
+      "element": "[天]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "アープ・ノエル",
+      "element": "[水]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "マッスル月島【守】",
+      "element": "[聖]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "月島を食べる少女",
+      "element": "[聖]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "PURIN",
+      "element": "[光]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "うさきつね",
+      "element": "[無]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "鋭い微笑【暗殺のナイフマン】",
+      "element": "[無]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "械聖「かいせい」",
+      "element": "[聖]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "ゆ〜れいちゃん",
+      "element": "[熱]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "天狐",
+      "element": "[天]",
+      "rarity": "【レア】"
+    },
+    {
+      "name": "ちびドラ",
+      "element": "[無]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "犬",
+      "element": "[無]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "自分スライムなんで",
+      "element": "[無]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "TAOROBOT-Y",
+      "element": "[邪]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "うなちゃん",
+      "element": "[闇]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "かげねこちゃん",
+      "element": "[陰]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "闇の帝王 グランドイーター",
+      "element": "[闇]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "ドット　クルーエル=ガンファイア",
+      "element": "[邪]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "NEW Moon Eclipse",
+      "element": "[邪]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "狐火",
+      "element": "[火]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "守護神",
+      "element": "[聖]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "虹猫",
+      "element": "[光]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "聖なる夜のジャックフロスト『クリスマス限定』",
+      "element": "[聖]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "アルコイリス",
+      "element": "[光]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "トート",
+      "element": "[天]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "コフィー",
+      "element": "[天]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "よろず屋",
+      "element": "[空]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "研修フェアリー ミコノ",
+      "element": "[天]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "レオニード",
+      "element": "[星]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "ノゾム",
+      "element": "[星]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "夜空の魔法使い・ノッテ",
+      "element": "[星]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "戦闘ロボット",
+      "element": "[氷]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "戦闘ロボット",
+      "element": "[陸]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "チャイナ:亜種",
+      "element": "[陸]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "聖夜の射手エクー",
+      "element": "[陸]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "バレンタインハート『バレンタイン限定』",
+      "element": "[地]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "青剣の剣士",
+      "element": "[海]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "極皇ゼロ",
+      "element": "[全]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "魔法少女・パトラ",
+      "element": "[全]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "魔法少女・カトラ",
+      "element": "[全]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "アーシタアーメニナーアレ",
+      "element": "[全]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "極姫セロ",
+      "element": "[全]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "鍋島『クリスマス限定』",
+      "element": "[鳥白湯スープ]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "フユ【猫】",
+      "element": "[氷]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "竜人エヴィエニス",
+      "element": "[邪]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "アラタ",
+      "element": "[星]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "夜行",
+      "element": "[幽霊]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "焔",
+      "element": "[熱]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "黒夢",
+      "element": "[邪]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "械兎クルデーレ",
+      "element": "[無]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "花火の輝き　リンナ",
+      "element": "[星]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "星を運ぶ船 エストレイジャ",
+      "element": "[天]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "狐の盆祭り",
+      "element": "[無]",
+      "rarity": "【激レア】"
+    },
+    {
+      "name": "月島",
+      "element": "[月]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "狂気ネコしろまる",
+      "element": "[猫]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "チャイナ:ドット",
+      "element": "[陸]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "雪の精霊　ジャックフロスト",
+      "element": "[氷]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "月島を抱く妖精",
+      "element": "[聖]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "テフィー とある休日ver",
+      "element": "[聖]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "テフィー とある休日青空ver",
+      "element": "[聖]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "Der mechanistische Beobachter",
+      "element": "[光]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "一世一代の乙女心『バレンタイン限定』",
+      "element": "[陽]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "魔法少女・カルミア",
+      "element": "[王]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "召喚獣イーフリート",
+      "element": "[炎]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "永遠の研修中？ミコノ",
+      "element": "[天]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "韋駄のハヤテ",
+      "element": "[聖]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "召喚獣ネレイス",
+      "element": "[海]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "べとべとさん",
+      "element": "[幽霊]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "私は花子さん",
+      "element": "[幽霊]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "クリーチャー月島",
+      "element": "[月]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "ピヨ島",
+      "element": "[果てしなきひよこ]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "スーパーやる夫",
+      "element": "[全]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "Luna",
+      "element": "[全]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "TAO",
+      "element": "[全]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "銀河系の一番星・レーラ",
+      "element": "[星]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "召喚獣ダインスレイヴ",
+      "element": "[無]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "召喚獣タイタン",
+      "element": "[陸]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "不死鳥フェニックス",
+      "element": "[炎]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "昏き花園、シレニシシア",
+      "element": "[月冥]",
+      "rarity": "【超激レア】"
+    },
+    {
+      "name": "Tohru",
+      "element": "[虚無]",
+      "rarity": "【最強】"
+    },
+    {
+      "name": "The=One (王)",
+      "element": "[王]",
+      "rarity": "【大地の覇者】"
+    },
+    {
+      "name": "............",
+      "element": "[1周年]",
+      "rarity": "【ありがとう！】"
+    },
+    {
+      "name": "天使アンエル",
+      "element": "[بكرة في المشمش]",
+      "rarity": "【天使】"
+    },
+    {
+      "name": "龍皇ドラッヘルシャフト",
+      "element": "[覇王]",
+      "rarity": "【龍帝】"
+    },
+    {
+      "name": "龍帝エリミネート",
+      "element": "[覇王]",
+      "rarity": "【龍帝】"
+    },
+    {
+      "name": "龍帝クロノルート",
+      "element": "[覇王]",
+      "rarity": "【龍帝】"
+    },
+    {
+      "name": "ツキダマ",
+      "element": "[月玉]",
+      "rarity": "【原初】"
+    },
+    {
+      "name": "月島流星群",
+      "element": "[平和]",
+      "rarity": "【最強】"
+    },
+    {
+      "name": "龍帝デバステート",
+      "element": "[覇王]",
+      "rarity": "【龍帝】"
+    },
+    {
+      "name": "星を噛み砕くもの ヘルカーダ",
+      "element": "[月冥]",
+      "rarity": "【三女神】"
+    },
+    {
+      "name": "星を腐らせるもの セレージエ",
+      "element": "[月冥]",
+      "rarity": "【三女神】"
+    }
+  ]
+}
